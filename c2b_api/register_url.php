@@ -7,8 +7,8 @@
 
 	$access_token = 'hQDeVJhYInPVDiKrhMDRv71GrteT';
 	$shortCode = '600611';
-	$confirmationUrl = __DIR__.'\test\confirmation_url.php';
-    $validationUrl = __DIR__.'\test\validation_url.php';
+	$confirmationUrl = __DIR__.'\c2b_api\test\confirmation_url.php';
+	$validationUrl = __DIR__.'\c2b_api\test\validation_url.php';
     
     $curl = curl_init();
     
